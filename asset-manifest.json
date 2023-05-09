@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Toggle-Boxes-Color/static/css/main.9c8a6276.css",
+    "main.js": "/Toggle-Boxes-Color/static/js/main.252f511e.js",
+    "static/js/787.cf9fd17b.chunk.js": "/Toggle-Boxes-Color/static/js/787.cf9fd17b.chunk.js",
+    "index.html": "/Toggle-Boxes-Color/index.html",
+    "main.9c8a6276.css.map": "/Toggle-Boxes-Color/static/css/main.9c8a6276.css.map",
+    "main.252f511e.js.map": "/Toggle-Boxes-Color/static/js/main.252f511e.js.map",
+    "787.cf9fd17b.chunk.js.map": "/Toggle-Boxes-Color/static/js/787.cf9fd17b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c8a6276.css",
+    "static/js/main.252f511e.js"
+  ]
+}
